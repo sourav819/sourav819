@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sourav_biswas13" target="blank"><img src="https://img.shields.io/twitter/follow/sourav_biswas13?logo=twitter&style=for-the-badge" alt="sourav_biswas13" /></a> </p>
 
-- 🔭 I’m currently working on **Scrapy and Selenium**
+- 🔭 I’m currently working on **Go lang**
 
 - 🌱 I’m currently learning **React**
 
