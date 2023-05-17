@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Web scrapping**
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
