@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/sourav_biswas13" target="blank"><img src="https://img.shields.io/twitter/follow/sourav_biswas13?logo=twitter&style=for-the-badge" alt="sourav_biswas13" /></a> </p>
 
-- 🔭 I’m currently working on **Go lang**
+- 🔭 I’m currently working on **Golang, React**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 👯 I’m looking to collaborate on **Fullstack Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
